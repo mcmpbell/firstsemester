@@ -1,4 +1,4 @@
-# Python3Stuff: This is a repository holding REALLY early code; first semester stuff
+# Python3 Stuff: This is a repository holding REALLY early code; first semester stuff
 
 
 # fibonacciNumber
